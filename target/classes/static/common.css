@@ -26,3 +26,14 @@
     padding: 2px 15px;
     cursor: pointer;
 }
+
+#content {
+    font-size: 30px;
+    color: wheat;
+    font-style:
+    width: auto;
+    padding: 40px 300px 10px 300px;
+    font: 800 40px Arial;
+  -webkit-text-fill-color: black;
+  -webkit-text-stroke: 1px;
+}
