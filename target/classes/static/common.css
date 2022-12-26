@@ -1,9 +1,21 @@
-* {
-    background-color: #262626;
+body{
+    margin: 0;
 }
+.header{
+    background-color: #1E90FF;
+    height: 250px;
+}
+
+.content{
+}
+
+.footer{
+}
+
 .logo {
     width: auto;
     padding: 40px;
+    color :
 }
 
 .logo #img {
@@ -11,7 +23,7 @@
      width: auto;
      margin-left: auto;
      margin-right: auto;
-     width: 40%;
+     width: 80%;
 }
 
 #menu {
@@ -27,13 +39,24 @@
     cursor: pointer;
 }
 
-#content {
+.content {
     font-size: 30px;
     color: wheat;
-    font-style:
+    font-style;
     width: auto;
     padding: 40px 300px 10px 300px;
     font: 800 40px Arial;
   -webkit-text-fill-color: black;
   -webkit-text-stroke: 1px;
+}
+
+#contactData {
+  font-size: 20px;
+  -webkit-text-fill-color: red;
+  -webkit-text-stroke: 1px;
+}
+.link {
+    color: red;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 1px;
 }
