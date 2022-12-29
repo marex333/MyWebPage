@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class CommonController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String main(){
-        return "main2";
+        return "main";
     }
 
     @RequestMapping(value = "/about", method = RequestMethod.GET)
