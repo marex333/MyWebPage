@@ -1,0 +1,14 @@
+.social_container {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.company_logo {
+    width: 300px;
+    height: 300px;
+}
+#linkedIn img, #github img, #facebook img {
+    width: 250px;
+    height: 250px;
+}
